@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Stars">  
+        <attr name="color" format="color" />  
+        <attr name="radius" format="float" />
+        <attr name="img" format="reference"></attr>
+        <attr name="ny" format="color"></attr>
+        <attr name="wy" format="color"></attr>
+        <attr name="text" format="string"></attr>
+        <attr name="textsize" format="dimension"></attr>
+    </declare-styleable>  
+</resources>
